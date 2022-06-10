@@ -2,14 +2,14 @@
 
 This is a repository to manage the devlopment of EMLO.
 
-The [wiki](/wiki) is the best place to start. 
+The [wiki](https://github.com/culturesofknowledge/emlo-project/wiki) is the best place to start. 
  
-* [Meetings Schedule](/wiki/Meetings-Schedule)
+* [Meetings Schedule](https://github.com/culturesofknowledge/emlo-project/wiki/Meetings-Schedule)
 
-* [List of Documents](/wiki/List-of-Documents)
+* [List of Documents](https://github.com/culturesofknowledge/emlo-project/wiki/List-of-Documents)
 
-* [EMLO Edit development project progress](/wiki/emlo-edit-development-project-progress)
+* [EMLO Edit development project progress](https://github.com/culturesofknowledge/emlo-project/wiki/emlo-edit-development-project-progress)
 
-* [Release Plan](/wiki/Release-Plan) 
+* [Release Plan]([/wiki](https://github.com/culturesofknowledge/emlo-project/wiki/Release-Plan) 
 
-The [project board](t/projects/1) has the list of tasks we will be working from
+The [project board](https://github.com/culturesofknowledge/emlo-project/projects/1) has the list of tasks we will be working from
