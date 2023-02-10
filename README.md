@@ -10,6 +10,6 @@ The [wiki](https://github.com/culturesofknowledge/emlo-project/wiki) is the best
 
 * [EMLO Edit development project progress](https://github.com/culturesofknowledge/emlo-project/wiki/emlo-edit-development-project-progress)
 
-* [Release Plan]([/wiki](https://github.com/culturesofknowledge/emlo-project/wiki/Release-Plan) 
+* [Release Plan](https://github.com/culturesofknowledge/emlo-project/wiki/Release-Plan) 
 
 The [project board](https://github.com/culturesofknowledge/emlo-project/projects/1) has the list of tasks we will be working from
